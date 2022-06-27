@@ -1,1 +1,1 @@
-# Python code and a small presentation including some key elements of the analysis.
+# Repo includes Python code used and a small ppt presentation with some key elements of the analysis.
